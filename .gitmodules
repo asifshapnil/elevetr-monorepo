@@ -1,0 +1,6 @@
+[submodule "Job-Assistant"]
+	path = Job-Assistant
+	url = https://github.com/asifshapnil/Job-Assistant.git
+[submodule "job-assistant-fe"]
+	path = job-assistant-fe
+	url = https://github.com/asifshapnil/job-assistant-fe.git
